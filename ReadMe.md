@@ -13,7 +13,7 @@
 + Push changes to the `origin` repo.
 + Pull changes from the `origin` to the `upstream`.
 
-![Centralized GIT](imgs/centralized-git.png=400x)
+![Centralized GIT](./imgs/centralized-git.png=400x)
 
 
 ## Doing it in Git
@@ -30,7 +30,7 @@ git pull origin master
 git status
 ```
 
-####By using `git clone`
+#### By using `git clone`
 
 ```
 git clone https://username@bitbucket.org/project_path.git
