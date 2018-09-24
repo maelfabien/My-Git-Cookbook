@@ -13,7 +13,7 @@
 + Push changes to the `origin` repo.
 + Pull changes from the `origin` to the `upstream`.
 
-![Centralized GIT](./imgs/centralized-git.png | width=400)
+![Centralized GIT](./imgs/centralized-git.png)
 
 
 ## Doing it in Git
